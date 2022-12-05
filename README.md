@@ -9,7 +9,7 @@ Before you can run Urbanize, you will need to have the following installed on yo
 
 -   [Python 3.x](https://www.python.org/downloads/) 🐍
 -   [Tkinter](https://docs.python.org/3/library/tkinter.html) ⚒️ (should be included with your Python installation)
-- [Tkdesigner]([tkdesigner · PyPI](https://pypi.org/project/tkdesigner/)) 🚀 module (you can install it using `pip install tkdesigner`)
+-   [tkdesigner · PyPI](https://pypi.org/project/tkdesigner/) 🚀 module (you can install it using `pip install tkdesigner`)
 -   The [`requests`](https://pypi.org/project/requests/)🔄️ module (you can install it using `pip install requests`)
 
 ## Running Urbanize
